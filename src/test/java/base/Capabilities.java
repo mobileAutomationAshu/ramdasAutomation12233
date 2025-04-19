@@ -25,7 +25,7 @@ public class Capabilities {
    // public WebDriver driver;
    // Object MobileCapabilityType;
 
-
+// setting up the capabalities
     public void lunchApp() throws MalformedURLException, InterruptedException {
         UiAutomator2Options options = new UiAutomator2Options();
 
